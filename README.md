@@ -2,9 +2,9 @@
 - 👀 I’m interested in MERN 
 - 🌱 I’m currently learning Full stack in MERN
 - 💞️ I’m looking to collaborate on awesome projects
-- 📫 How to reach me -MO. 8668785443
+- 📫 How to reach me -.📞 8668785443
 - 😄 Pronouns:  Sush
-- ⚡ Fun fact: I don't like coding
+- ⚡ Fun fact: Did you know? My code and coffee go hand in hand. When the IDE takes a break, I'm sipping on a different kind of brew. ☕👨‍💻
 
 <!---
 sushantkumbhar99/sushantkumbhar99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
